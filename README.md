@@ -6,6 +6,12 @@
 
 在油猴脚本中加入这两个规则，可以在原来下载 PDF 文件的附近新增一个“Download Renamed PDF”的按钮，点击可以下载以论文题目为文件名的 PDF 文件。
 
+## 网站支持 | Sipporting Websites
+- [x]Arxiv
+- [x]ACM DL
+- [x]Research Gate
+- [x]IEEE（No need to rename）
+
 ## 先决条件 | Prerequisites
 
 安装 Tampermonkey（适用于 Chrome、Firefox、Edge 等浏览器）。
